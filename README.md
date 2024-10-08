@@ -32,11 +32,9 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=slay1379&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slay1379&layout=compact)
 
 
-![GitHub Metrics](https://github.com/slay1379/algorithm/blob/main/github-metrics.svg)
 
 
 
