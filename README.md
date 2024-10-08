@@ -36,5 +36,8 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slay1379&layout=compact)
 
 
+![GitHub Metrics](https://github.com/slay1379/algorithm/blob/main/github-metrics.svg)
+
+
 
 
