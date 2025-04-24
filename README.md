@@ -30,6 +30,10 @@ Here are some ideas to get you started:
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon-AWS&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=github-actions&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white)
+
 
 
 ### Datatbase
@@ -39,7 +43,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slay1379&layout=compact)
 
-# 진행했던 프로젝트
+# 진행했던 대표 프로젝트
 
 ## 📊 상권 분석 웹 서비스
 
@@ -53,5 +57,20 @@ LG U+의 통신사 데이터를 활용하여 지역 상권의 유동 인구 및 
 - 사용자 맞춤형 커스텀 지표 생성 및 저장
 - 시계열 데이터 기반 변화 추이 분석
 
+
+
+# 🤝 협업 스타일
+
+- 명확한 커뮤니케이션을 위해 상대방의 말을 경청하려고 합니다.  
+- 팀원이 막히는 부분이 있으면 함께 고민하는 걸 좋아합니다  
+- 갈등이 생겨도 감정보다 논리로 해결하려고 노력합니다
+
+
+# ✨ 개발자 밖에서의 나
+
+- 🎤 랩을 좋아합니다: 공연 무대에 서는 걸 즐깁니다.  
+- 🔍 퍼즐 게임과 추리 콘텐츠에 진심입니다:  
+  방탈출, 머더 미스터리, 보드게임 같이 논리와 창의력을 요구하는 활동을 좋아해요  
+- 🧠 어릴 때부터 퀴즈, 논리 퍼즐을 즐기며 문제 해결에 재미를 느껴왔습니다  
 
 
