@@ -43,6 +43,13 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slay1379&layout=compact)
 
+# 💡 개발 철학
+
+저는 **"사용자의 불편을 해결하는 것"이 개발의 본질**이라고 믿습니다.  
+기술의 복잡함은 최대한 감추고, 사용자는 직관적으로 편리함을 느낄 수 있도록 만드는 개발자가 되고자 합니다.  
+작은 개선이라도 일상의 흐름을 부드럽게 만드는 코드가 저의 목표입니다.
+
+
 # 진행했던 대표 프로젝트
 
 ## 📊 상권 분석 웹 서비스
