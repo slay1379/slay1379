@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-9D4CCC.svg?&style=for-the-badge&logo=InfluxDB&logoColor=purple)
 
 ### Tools
 ![IntelliJ%20IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
@@ -31,6 +30,7 @@ Here are some ideas to get you started:
 
 ### Datatbase
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-9D4CCC.svg?&style=for-the-badge&logo=InfluxDB&logoColor=purple)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slay1379&layout=compact)
