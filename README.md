@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slay1379&layout=compact)
+![Taehun's GitHub stats](https://github-readme-stats.vercel.app/api?username=slay1379&show_icons=true&theme=default)
 
 # 💡 개발 철학
 
