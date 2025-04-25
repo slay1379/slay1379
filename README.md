@@ -47,14 +47,12 @@ Here are some ideas to get you started:
 ![Taehun's GitHub stats](https://github-readme-stats.vercel.app/api?username=slay1379&show_icons=true&theme=default)
 
 # 💡 개발 철학
-
 저는 **"사용자의 불편을 해결하는 것"이 개발의 본질**이라고 믿습니다.  
 기술의 복잡함은 최대한 감추고, 사용자는 직관적으로 편리함을 느낄 수 있도록 만드는 개발자가 되고자 합니다.  
 작은 개선이라도 일상의 흐름을 부드럽게 만드는 코드가 저의 목표입니다.
 
 
 # 진행했던 대표 프로젝트
-
 ## 📊 상권 분석 웹 서비스
 
 LG U+의 통신사 데이터를 활용하여 지역 상권의 유동 인구 및 방문 인구를 분석하고, 상권 유형을 분류 및 추천해주는 데이터 기반 웹 서비스입니다.
