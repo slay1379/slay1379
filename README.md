@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 
 
 # 진행했던 대표 프로젝트
+[CapstoneLocalLens 레포지토리](https://github.com/CapstoneLocalLens/front)
 ### 📊 상권 분석 웹 서비스
 
 LG U+의 통신사 데이터를 활용하여 지역 상권의 유동 인구 및 방문 인구를 분석하고, 상권 유형을 분류 및 추천해주는 데이터 기반 웹 서비스입니다.
