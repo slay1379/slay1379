@@ -1,4 +1,4 @@
-## Hi there 👋
+## 나는야 김태헌 👋
 
 <!--
 **slay1379/slay1379** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
