@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 - 🔍 퍼즐 게임과 추리 콘텐츠에 진심입니다:  
   방탈출, 머더 미스터리, 보드게임 같이 논리와 창의력을 요구하는 활동을 좋아해요  
 - 🧠 어릴 때부터 퀴즈, 논리 퍼즐을 즐기며 문제 해결에 재미를 느껴왔습니다  
+  [뉴스](https://www.joongang.co.kr/article/4751302)
 
 
 # 💡 개발 철학
