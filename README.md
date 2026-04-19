@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=slay1379)](https://solved.ac/slay1379/)
-![mazandi](http://mazandi.herokuapp.com/api?handle=slay1379&theme=warm)
 
 
 # 💪Skills
